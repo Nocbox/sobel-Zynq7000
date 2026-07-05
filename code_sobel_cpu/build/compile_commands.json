@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/OpenCV_Test/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenCV_Test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenCV_Test.dir\\main.cpp.obj -c D:\\OpenCV_Test\\main.cpp",
+  "file": "D:/OpenCV_Test/main.cpp",
+  "output": "CMakeFiles/OpenCV_Test.dir/main.cpp.obj"
+}
+]
